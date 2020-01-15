@@ -1,0 +1,23 @@
+Compilation completed successfully.
+
+Device Utilization
+---------------------------
+Total Slices: 51.3% (7360 out of 14336)
+Flip Flops: 26.1% (7479 out of 28672)
+Total LUTs: 37.5% (10761 out of 28672)
+Block RAMs: 66.7% (64 out of 96)
+
+Timing
+---------------------------
+MiteClk (Used by non-diagram components): 33.04 MHz (39.33 MHz maximum)
+40 MHz Onboard Clock: 40.41 MHz (44.92 MHz maximum)
+
+Actual Xilinx Options
+---------------------------
+Synthesis Optimization Goal: Speed
+Synthesis Optimization Effort: Normal
+Map Overall Effort Level: Default
+Place and Route Overall Effort Level: Standard
+
+Start Time: 4/2/2013 5:31:44 PM
+End Time: 4/2/2013 5:56:02 PM
